@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Deployed link : https://64ce986c842a6d636097c41a--magical-moonbeam-ab8fee.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
